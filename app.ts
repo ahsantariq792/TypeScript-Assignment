@@ -20,5 +20,5 @@ fetch("https://fakestoreapi.com/products").then((data) => {
         body.innerHTML = tableData;
     })
 }).catch((err:string) => {
-    alert('error');
+    alert('error in getting data');
 })

@@ -2,6 +2,7 @@
 
 Create a web application that fetches data from a public API and
 displays it in a table using TypeScript.
+
 1. First, you need to choose a public API to fetch data from. There are many
 public APIs available that provide different types of data such as weather,
 news, sports, and more. Choose an API that provides data in a tabular
